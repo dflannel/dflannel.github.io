@@ -36,6 +36,7 @@ disqus:             dflannel
 exclude:
   - LICENSE.md
   - README.md
+  - index.backup.html
 
 # Gems
 gems:
