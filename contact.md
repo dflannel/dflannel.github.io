@@ -22,6 +22,6 @@ title: Contact
     </div>
 
     <input type="hidden" name="_subject" value="Flannel Blog contact" />
-    <input type="hidden" name="_next" value="http://localhost:4000" />
+    <input type="hidden" name="_next" value="http://www.dflannel.it" />
     <input type="submit" value="Send" class="button">
 </form>
