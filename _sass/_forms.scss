@@ -1,0 +1,17 @@
+input[type=text],
+input[type=url],
+input[type=email],
+input[type=password],
+input[type=number] {
+  @include sassy-text;
+}
+
+textarea {
+  @include sassy-textarea;
+}
+
+input[type=submit],
+input[type=button],
+button {
+  @include sassy-button;
+}

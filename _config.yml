@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Flannel Blog
+tagline:             Tech and flannel doesn't mix
+url:                 http://www.dflannel.it
 paginate:            1
 baseurl:             ""
 
@@ -17,16 +17,28 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Davide Parisi
+  url:               http://www.dflannel.it
+  email:             dflannel@gmail.com
 
 # Custom vars
 version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+github:              dflannel
+repo:
+
+# highlight
+highlight:          rouge
+
+# Disqus
+disqus:             dflannel
+
+# Exclude service files
+exclude:
+  - LICENSE.md
+  - README.md
 
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-coffeescript
