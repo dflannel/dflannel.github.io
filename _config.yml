@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Flannel Blog
-tagline:             Tech and flannel doesn't mix
+title:               Flannel
+tagline:             Soft & Warm Tech Stuff
 url:                 http://www.dflannel.it
 paginate:            1
 baseurl:             ""
